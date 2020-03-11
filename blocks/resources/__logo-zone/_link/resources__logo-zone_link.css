@@ -1,0 +1,8 @@
+.resources__logo-zone_link {
+    transition: opacity 1s ease-in-out 0.5s;
+}
+
+.resources__logo-zone_link:hover {
+    opacity: .5;
+    border-bottom: 1px solid #2F80ED;
+}

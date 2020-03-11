@@ -1,0 +1,17 @@
+@keyframes square-pic {
+    0% {
+        transform: rotate(-15deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes triangle {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

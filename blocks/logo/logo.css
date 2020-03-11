@@ -1,0 +1,6 @@
+@import url(../logo/_place_header/logo_place_header.css);
+@import url(../logo/_place_footer/logo_place_footer.css);
+
+.logo {
+    height: 32px;
+}
