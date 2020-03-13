@@ -8,5 +8,5 @@
     background-image: url(../../../images/triangle.svg);
     background-repeat: no-repeat;
     background-size: 877px 877px;
-    animation: triangle 20s ease infinite;
+    animation: triangle 20s linear infinite;
 }
